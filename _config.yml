@@ -1,5 +1,5 @@
 title: "Cryptanalysis"
-remote_theme: mmistakes
+remote_theme: jekyll-theme-cayman
 color_scheme: dark
 search_enabled: false
 heading_anchors: false
