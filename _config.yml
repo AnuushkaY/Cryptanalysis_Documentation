@@ -4,6 +4,9 @@ description: Cipher Classification and Side-Channel Analysis with Deep Learning
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
+search_enabled: false
+heading_anchors: false
+
 nav:
   - Home: index.md
   - Methodology: methodology.md
