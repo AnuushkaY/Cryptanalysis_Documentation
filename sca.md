@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Side-Channel Analysis
 nav_order: 3
+layout: default
 ---
 
 # Side-Channel Analysis
@@ -10,15 +10,14 @@ nav_order: 3
 
 Train a CNN on DES power traces to recover key-dependent leakage.
 
----
-
 ## Leakage Model
 
-We assume **Hamming Weight leakage** of intermediate DES values.
-
----
+Hamming Weight of intermediate DES values.
 
 ## CNN Pipeline
 
-```text
 Power Trace → Convolution → Dense → Key Probability
+
+## Metric
+
+Key Rank vs Number of Traces.

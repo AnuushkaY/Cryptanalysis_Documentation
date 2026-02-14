@@ -1,18 +1,19 @@
 ---
-layout: default
 title: Results
 nav_order: 4
+layout: default
 ---
+
 # Results
 
 ## Accuracy Table
 
-| Cipher | Accuracy |
-|--------|----------|
-| AES | |
-| DES | |
-| Vigenère | |
-| Speck32 | |
+| Cipher   | Accuracy |
+|----------|----------|
+| AES      | —        |
+| DES      | —        |
+| Vigenère | —        |
+| Speck32  | —        |
 
 ## Key Rank Graph
 

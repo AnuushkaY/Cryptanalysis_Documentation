@@ -1,12 +1,14 @@
 ---
-layout: default
 title: Conclusion
 nav_order: 5
+layout: default
 ---
+
 # Conclusion
 
-- Classical ciphers are easy to detect
-- DES leakage can be learned
-- AES remains strong
+- Deep learning can identify cipher types from ciphertext alone  
+- DES is vulnerable to side-channel leakage  
+- AES remains resistant under our experimental setup  
+- Synthetic leakage enables controlled evaluation for lightweight ciphers  
 
-Security depends on implementation also.
+This work connects classical cryptanalysis, deep learning, and hardware leakage modelling.
