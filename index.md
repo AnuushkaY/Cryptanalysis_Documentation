@@ -1,15 +1,25 @@
 ---
-layout: default
-title: ""
+layout: home
+title: Energy-Based Cryptanalysis
 nav_order: 1
 ---
 
-<div style="text-align: center; margin-top: 2rem; margin-bottom: 3rem;">
-
 # Energy-Based Cryptanalysis
 
-## Cipher Classification & Side-Channel Key Recovery
+Cipher Classification and Side-Channel Analysis with Deep Learning.
 
-Deep Learning • Energy Models • CNN-SCA
+---
 
-</div>
+## Core Directives
+
+- Learn energy-based representations of cryptographic algorithms  
+- Perform side-channel leakage modeling  
+- Apply CNNs for key recovery  
+- Evaluate neural-symbolic hybrid reasoning  
+
+---
+
+## Pipeline Overview
+
+```text
+Cipher → Feature Extraction → Energy Model → CNN → Key Rank
