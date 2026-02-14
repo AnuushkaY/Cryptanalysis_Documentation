@@ -1,5 +1,6 @@
-title: "Cryptanalysis"
-remote_theme: jekyll-theme-hacker
-color_scheme: dark
-search_enabled: false
-heading_anchors: false
+remote_theme: mmistakes/minimal-mistakes
+
+title: Energy-Based and Neurosymbolic Methods for Advanced Cryptanalysis
+description: Cipher classification and side-channel analysis with deep learning
+
+markdown: kramdown
