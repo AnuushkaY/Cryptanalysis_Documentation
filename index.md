@@ -1,25 +1,20 @@
 ---
-layout: home
-title: Energy-Based Cryptanalysis
+title: Energy-Based and Neurosymbolic Methods for Advanced Cryptanalysis
 nav_order: 1
+layout: default
 ---
 
-# Energy-Based Cryptanalysis
+# Energy-Based and Neurosymbolic Methods for Advanced Cryptanalysis
 
-Cipher Classification and Side-Channel Analysis with Deep Learning.
+Deep learning based cryptanalysis framework for:
 
----
-
-## Core Directives
-
-- Learn energy-based representations of cryptographic algorithms  
-- Perform side-channel leakage modeling  
-- Apply CNNs for key recovery  
-- Evaluate neural-symbolic hybrid reasoning  
+- Cipher classification from ciphertext
+- DES side-channel key ranking
+- Synthetic leakage modelling using Hamming weight
+- Comparative security evaluation of AES, DES, Vigenère, and Speck32
 
 ---
 
-## Pipeline Overview
+## Project Overview
 
-```text
-Cipher → Feature Extraction → Energy Model → CNN → Key Rank
+This project investigates how deep learning can identify encryption algorithms directly from ciphertext...
