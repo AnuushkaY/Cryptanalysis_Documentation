@@ -1,5 +1,5 @@
-title: ""
-remote_theme: just-the-docs/just-the-docs
+title: "Cryptanalysis"
+remote_theme: mmistakes/minimal-mistakes
 color_scheme: dark
 search_enabled: false
 heading_anchors: false
