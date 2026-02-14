@@ -3,12 +3,22 @@ layout: default
 title: Side-Channel Analysis
 nav_order: 3
 ---
+
 # Side-Channel Analysis
 
-We train a CNN on DES power traces.
+## Objective
 
-Leakage model: Hamming Weight
+Train a CNN on DES power traces to recover key-dependent leakage.
 
-Goal: rank the correct key.
+---
 
-Metric: Key Rank vs Traces
+## Leakage Model
+
+We assume **Hamming Weight leakage** of intermediate DES values.
+
+---
+
+## CNN Pipeline
+
+```text
+Power Trace → Convolution → Dense → Key Probability
