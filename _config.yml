@@ -6,12 +6,12 @@ color_scheme: dark
 
 search_enabled: false
 
-nav:
-  - Home: index.md
-  - Methodology: methodology.md
-  - Side-Channel Analysis: sca.md
-  - Results: results.md
-  - Conclusion: conclusion.md
+# nav:
+#   - Home: index.md
+#   - Methodology: methodology.md
+#   - Side-Channel Analysis: sca.md
+#   - Results: results.md
+#   - Conclusion: conclusion.md
 
 plugins:
   - jekyll-remote-theme
