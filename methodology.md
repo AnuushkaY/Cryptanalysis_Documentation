@@ -8,19 +8,10 @@ layout: default
 
 ## Cipher Classification
 
-We train a deep learning model on ciphertext samples generated from:
+Model trained on ciphertext from AES, DES, Vigenère, and Speck32.
 
-- AES  
-- DES  
-- Vigenère  
-- Speck32  
+Pipeline:
 
-The model learns statistical signatures present in ciphertext without using encryption keys.
+Ciphertext → Neural Network → Cipher Prediction
 
-## Model Pipeline
-
-Ciphertext → Tokenization → Neural Network → Cipher Prediction
-
-## Evaluation Metric
-
-Classification accuracy across all cipher classes.
+Metric: Classification accuracy.

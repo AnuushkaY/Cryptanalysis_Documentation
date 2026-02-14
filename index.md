@@ -17,14 +17,6 @@ Deep learning based cryptanalysis framework for:
 
 ## Abstract
 
-This project explores how deep learning models can identify encryption algorithms directly from ciphertext without access to keys.  
+This project explores how deep learning models can identify encryption algorithms directly from ciphertext without access to keys.
+
 We further investigate side-channel leakage using a CNN trained on DES power traces and evaluate key ranking performance using Hamming weight leakage models.
-
----
-
-## Key Contributions
-
-- Energy-based cipher classifier  
-- CNN-based side-channel key ranking  
-- Synthetic Speck32 leakage dataset  
-- Comparative security insights across classical and modern ciphers

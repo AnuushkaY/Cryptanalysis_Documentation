@@ -6,9 +6,10 @@ layout: default
 
 # Conclusion
 
-- Deep learning can identify cipher types from ciphertext alone  
-- DES is vulnerable to side-channel leakage  
-- AES remains resistant under our experimental setup  
-- Synthetic leakage enables controlled evaluation for lightweight ciphers  
+Deep learning can classify ciphers from ciphertext.
 
-This work connects classical cryptanalysis, deep learning, and hardware leakage modelling.
+DES shows side-channel leakage vulnerability.
+
+AES remains resistant in our experiments.
+
+Synthetic leakage enables controlled evaluation.
