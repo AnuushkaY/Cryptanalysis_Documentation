@@ -1,3 +1,8 @@
+---
+layout: default
+title: Conclusion
+nav_order: 5
+---
 # Conclusion
 
 - Classical ciphers are easy to detect

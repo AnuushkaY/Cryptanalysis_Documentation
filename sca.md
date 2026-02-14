@@ -1,3 +1,8 @@
+---
+layout: default
+title: Side-Channel Analysis
+nav_order: 3
+---
 # Side-Channel Analysis
 
 We train a CNN on DES power traces.
