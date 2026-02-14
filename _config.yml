@@ -1,8 +1,6 @@
 site_title: Energy-Based and Neurosymbolic Methods for Advanced Cryptanalysis
 site_description: Deep Learning for Cipher Classification and Side-Channel Attacks
 
-title: Energy-Based Cryptanalysis
-
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 search_enabled: false
