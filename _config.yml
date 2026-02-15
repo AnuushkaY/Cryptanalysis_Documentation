@@ -1,7 +1,15 @@
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 
 
-title: Energy-Based and Neurosymbolic Methods for Advanced Cryptanalysis
-description: Cipher classification and side-channel analysis with deep learning
+# title: Energy-Based and Neurosymbolic Methods for Advanced Cryptanalysis
+# description: Cipher classification and side-channel analysis with deep learning
 
-markdown: kramdown
+# markdown: kramdown
+
+site_title: Energy-Based and Neurosymbolic Methods for Advanced Cryptanalysis
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+
+search_enabled: false
+heading_anchors: false
