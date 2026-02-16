@@ -5,7 +5,7 @@
 # description: Cipher classification and side-channel analysis with deep learning
 
 # markdown: kramdown
-
+title: " "
 site_title: Energy-Based and Neurosymbolic Methods for Advanced Cryptanalysis
 
 remote_theme: just-the-docs/just-the-docs
