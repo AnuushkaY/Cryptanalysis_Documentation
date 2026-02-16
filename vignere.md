@@ -35,8 +35,12 @@ After determining the key length, the ciphertext is divided into columns. Each c
 
 ---
 
+## Results
+![alt text](vignere_3.png) ![alt text](vignere_2.png)
+
 ## Outcome
 
 - Successful recovery of the key
 - Demonstration of classical statistical cryptanalysis
 - Baseline comparison for modern machine learning based attacks
+

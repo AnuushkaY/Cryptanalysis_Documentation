@@ -17,6 +17,7 @@ This module acts as the first stage of the pipeline by learning statistical repr
 
 The project includes the following cipher categories:
 
+- Advanced Encryption Standards(AES)
 - Classical substitution-based cipher (Vigenère)
 - Lightweight block cipher (SPECK32)
 - Feistel-based block cipher (DES)
@@ -81,6 +82,10 @@ This allows:
 - feature learning for downstream cryptanalysis
 
 ---
+
+## Accuracy 
+
+![alt text](energy_classifier_accuracy.png)
 
 ## Role in the Cryptanalysis Pipeline
 

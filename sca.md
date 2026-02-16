@@ -1,5 +1,5 @@
 ---
-title: Results
+title: Side Channel Attack
 nav_order: 4
 layout: default
 ---
@@ -55,6 +55,8 @@ trace → key class
 Key rank is used as the evaluation metric.  
 Rank 0 indicates successful key recovery.
 
+![alt text](speck32_sca.png)
+
 ---
 
 ## DES S-box Side-Channel Attack
@@ -68,6 +70,8 @@ Key recovery procedure:
 3. Select the key with maximum likelihood
 
 This follows the template attack methodology with deep learning feature extraction.
+
+![alt text](DES_sca.png)
 
 ---
 
