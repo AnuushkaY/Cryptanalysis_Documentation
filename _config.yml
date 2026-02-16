@@ -13,3 +13,9 @@ color_scheme: dark
 
 search_enabled: false
 heading_anchors: false
+
+aux_links:
+  "GitHub":
+    - "https://github.com/AnuushkaY/EnergyBased-and-Neurosymbolic-Methods-for-Advanced-CrypytAnalysis"
+
+aux_links_new_tab: true
