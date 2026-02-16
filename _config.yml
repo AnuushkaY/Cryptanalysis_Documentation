@@ -14,8 +14,15 @@ color_scheme: dark
 search_enabled: false
 heading_anchors: false
 
+# Built-in GitHub icon (top right corner)
+gh_edit_link: false
+gh_view_link: true
+gh_repository: RishitModi/EnergyBased-and-Neurosymbolic-Methods-for-Advanced-CrypytAnalysis
+
+# Highlighted aux link (bigger text than normal nav)
 aux_links:
-  "GitHub":
-    - "https://github.com/AnuushkaY/EnergyBased-and-Neurosymbolic-Methods-for-Advanced-CrypytAnalysis"
+  "🚀 PROJECT REPO":
+   - "https://github.com/AnuushkaY/EnergyBased-and-Neurosymbolic-Methods-for-Advanced-CrypytAnalysis"
 
 aux_links_new_tab: true
+
