@@ -6,7 +6,7 @@ layout: default
 
 #### Energy-Based and Neurosymbolic methods for advanced Cryptanalysis
 
-![alt text](image.png)
+![alt text](image-1.png)
 # Introduction
 
 ## Overview
