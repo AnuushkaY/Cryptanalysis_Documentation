@@ -13,7 +13,7 @@ This module acts as the first stage of the pipeline by learning statistical repr
 
 ---
 
-## Cipher Types Considered
+## Cipher Types 
 
 The project includes the following cipher categories:
 
