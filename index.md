@@ -4,12 +4,12 @@ nav_order: 1
 layout: default
 ---
 
-#### Energy-Based and Neurosymbolic methods for advanced Cryptanalysis
+# Energy-Based and Neurosymbolic methods for advanced Cryptanalysis
 
 ![alt text](image-1.png)
-# Introduction
+## Introduction
 
-## Overview
+### Overview
 
 Cryptanalysis is the study of analysing cryptographic systems in order to recover secret information without prior knowledge of the key. While modern cryptographic algorithms are mathematically secure against classical attacks, practical implementations often leak information through physical side channels such as power consumption, timing behaviour, and electromagnetic radiation.
 
@@ -34,7 +34,7 @@ The key challenges addressed in this project are:
 
 ---
 
-## Objectives
+### Objectives
 
 - Implement classical Vigenère cryptanalysis using statistical methods
 - Generate synthetic side-channel traces using the Hamming Weight model
@@ -44,7 +44,7 @@ The key challenges addressed in this project are:
 
 ---
 
-## Tools and Technologies
+### Tools and Technologies
 
 - Python
 - PyTorch
