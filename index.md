@@ -3,6 +3,7 @@ title: Introduction
 nav_order: 1
 layout: default
 ---
+![alt text](image.png)
 # Introduction
 
 ## Overview
