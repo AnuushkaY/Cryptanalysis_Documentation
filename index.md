@@ -3,6 +3,9 @@ title: Introduction
 nav_order: 1
 layout: default
 ---
+
+#### Energy-Based and Neurosymbolic methods for advanced Cryptanalysis
+
 ![alt text](image.png)
 # Introduction
 
