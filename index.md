@@ -1,3 +1,8 @@
+---
+title: Conclusion
+nav_order: 1
+layout: default
+---
 # Energy-Based and Neurosymbolic Methods for Advanced Cryptanalysis
 
 Deep learning based framework for **cipher classification** and **side-channel key recovery** without prior knowledge of encryption keys.
